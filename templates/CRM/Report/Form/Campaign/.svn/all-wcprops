@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/fuzion-code/!svn/ver/371/trunk/civicrm/unpackaged_extenstions/turf_report/templates/CRM/Report/Form/Campaign
+END
+WcanPrint.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/fuzion-code/!svn/ver/371/trunk/civicrm/unpackaged_extenstions/turf_report/templates/CRM/Report/Form/Campaign/WcanPrint.tpl
+END
+WcanTurf.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/fuzion-code/!svn/ver/371/trunk/civicrm/unpackaged_extenstions/turf_report/templates/CRM/Report/Form/Campaign/WcanTurf.tpl
+END
